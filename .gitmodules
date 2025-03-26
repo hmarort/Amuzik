@@ -1,0 +1,6 @@
+[submodule "amuzik-blog"]
+	path = amuzik-blog
+	url = https://github.com/hmarort/amuzik-blog
+[submodule "amuzik-project"]
+	path = amuzik-project
+	url = https://github.com/hmarort/amuzik-project
