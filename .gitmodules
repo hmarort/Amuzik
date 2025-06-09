@@ -4,3 +4,6 @@
 [submodule "amuzik-project"]
 	path = amuzik-project
 	url = https://github.com/hmarort/amuzik-project
+[submodule "chat-server"]
+	path = chat-server
+	url = https://github.com/hmarort/chat-server
