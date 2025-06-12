@@ -8,5 +8,5 @@
 	path = chat-server
 	url = https://github.com/hmarort/chat-server
 [submodule "amuzikAPI"]
-	path = amuzikApi
+	path = amuzikAPI
 	url = https://github.com/hmarort/amuzikAPI
