@@ -7,3 +7,6 @@
 [submodule "chat-server"]
 	path = chat-server
 	url = https://github.com/hmarort/chat-server
+[submodule "amuzikApi"]
+	path = amuzikApi
+	url = https://github.com/hmarort/amuzikApi
